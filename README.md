@@ -1,9 +1,11 @@
 # 📘 SaborExpress & Exercícios de Lógica em Python
-Este repositório reúne exercícios práticos de lógica de programação em Python, desenvolvidos com o objetivo de consolidar conceitos fundamentais como funções, estruturas condicionais, listas, laços de repetição, tratamento de erros e fluxo de execução.
+Este repositório reúne exercícios práticos de lógica de programação em Python, desenvolvidos com o objetivo de consolidar conceitos fundamentais como funções, estruturas condicionais, listas, laços de repetição, tratamento de erros e fluxo de execução. 
 O projeto principal simula um sistema simples de gerenciamento de restaurantes via terminal, além de conter exercícios independentes focados em lógica básica.
+
 ---
+
 ## 🧠 Conteúdos Trabalhados
-Durante o desenvolvimento dos exercícios, foram praticados os seguintes conceitos:
+### Durante o desenvolvimento dos exercícios, foram praticados os seguintes conceitos:
 Estruturas condicionais (if, elif, else)
 Funções e organização de código
 Listas e dicionários
@@ -13,7 +15,9 @@ Tratamento de exceções (try/except)
 Fluxo de execução e chamada de funções
 Estrutura de menu interativo em terminal
 Boas práticas iniciais com __main__
+
 ---
+
 ## 🍽️ Projeto 1 — SaborExpress (Menu Interativo)
 Sistema simples de gerenciamento de restaurantes executado no terminal.
 ### Funcionalidades:
@@ -36,7 +40,9 @@ restaurantes = [
 - Funções com responsabilidade única
 - Entrada de dados pelo usuário
 - Controle de estado (ativo/inativo)
+
 ---
+
 ## 🔢 Exercício 2 — Condicionais e Funções
 Conjunto de funções simples para treino de lógica:
 ### Funcionalidades:
@@ -49,7 +55,9 @@ Conjunto de funções simples para treino de lógica:
 - Retorno de valores
 - Comparações numéricas
 - Organização por funções
+  
 ---
+
 ## 📊 Exercício 3 — Listas, Laços e Cálculos
 Exercícios focados em manipulação de listas e cálculos básicos.
 ### Funcionalidades:
